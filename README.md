@@ -67,7 +67,7 @@ PC Validation & Report Generator
 ### 1. Clone Repository
 
 ```bash
-git clone <your_repo_url>
+git clone <https://github.com/Nimra01/Automated_Python_UART_Tester.git>
 cd <your_project_folder>
 
 ```

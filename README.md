@@ -67,8 +67,8 @@ PC Validation & Report Generator
 ### 1. Clone Repository
 
 ```bash
-git clone <https://github.com/Nimra01/Automated_Python_UART_Tester.git>
-cd <your_project_folder>
+git clone https://github.com/Nimra01/Automated_Python_UART_Tester.git
+cd UART_Tester
 
 ```
 2. Upload Arduino Firmware
